@@ -1,1 +1,1 @@
-Made an app with LondonAppBrewery help
+Made nice weather app with LondonAppBrewery help
